@@ -1,1 +1,1 @@
-# coding-project-template
+# Web development practice project :) - Colin Rolance D
